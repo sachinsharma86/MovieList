@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Genere:"; ObjectID = "27e-0I-Jh3"; */
+"27e-0I-Jh3.text" = "Genere:";
+
+/* Class = "UILabel"; text = "genre"; ObjectID = "648-mA-C4O"; */
+"648-mA-C4O.text" = "genre";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "77x-kN-GT4"; */
+"77x-kN-GT4.text" = "Title";
+
+/* Class = "UILabel"; text = "Budget:"; ObjectID = "8md-W1-bfO"; */
+"8md-W1-bfO.text" = "Budget:";
+
+/* Class = "UILabel"; text = "Budget:"; ObjectID = "Fl8-pg-tnR"; */
+"Fl8-pg-tnR.text" = "Budget:";
+
+/* Class = "UILabel"; text = "Genere"; ObjectID = "IbF-AE-IRm"; */
+"IbF-AE-IRm.text" = "Genere";
+
+/* Class = "UILabel"; text = "Production Company:"; ObjectID = "NF9-1Q-WWi"; */
+"NF9-1Q-WWi.text" = "Production Company:";
+
+/* Class = "UILabel"; text = "Release Date :"; ObjectID = "UcW-cP-sJO"; */
+"UcW-cP-sJO.text" = "Release Date :";
+
+/* Class = "UILabel"; text = "Release Date "; ObjectID = "ibN-ds-uCo"; */
+"ibN-ds-uCo.text" = "Release Date ";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "leS-5G-O2s"; */
+"leS-5G-O2s.text" = "Description:";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "mRn-LC-xhd"; */
+"mRn-LC-xhd.text" = "Description";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "t3w-MB-Jvj"; */
+"t3w-MB-Jvj.text" = "Date";
+
+/* Class = "UILabel"; text = "Production Company:"; ObjectID = "z5m-mz-Up1"; */
+"z5m-mz-Up1.text" = "Production Company:";
